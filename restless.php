@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     RESTless
- * Plugin URI:      https://burobjorn.nl
+ * Plugin URI:      https://burobjorn.nl/floss/wordpress-plugins/restless
  * Description:     RESTless disables REST API calls for non-authenticated users
  * Author:          Bj&ouml;rn Wijers <burobjorn@burobjorn.nl>
  * Author URI:      https://burobjorn.nl
