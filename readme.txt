@@ -50,11 +50,12 @@ Thanks Shannon E Thomas and to[icon] for sharing your work!
 
 
 WordPress repository banner image found in /assets/banner*: 
-['Draak'](http://hdl.handle.net/10934/RM0001.COLLECT.319230)
 
+Orginal painting: ['Draak'](http://hdl.handle.net/10934/RM0001.COLLECT.319230)
 Drawn by: [Utagawa Kuniyoshi](https://en.wikipedia.org/wiki/Utagawa_Kuniyoshi) 
 Dated around 1808 - 1861
 Repository: Rijksmuseum.nl
+Modified by: [Bj&ouml;rn Wijers](https://burobjorn.nl)
 
 Thanks Rijksmuseum!
 
