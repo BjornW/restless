@@ -14,6 +14,8 @@ RESTless disables REST calls for non-authenticated requests.
 RESTless is a tiny WordPress plugin which disables access to the REST API (available in WordPress since version 4.4) for non-authenticated users.
 This prevents usage of the REST API by the general public and limits access to those with login credentials. No REST for the wicked. 
 
+It also supports WordPress Multisite installations.
+
 == Installation ==
 
 Install this plugin as you'd install any other WordPress plugin
@@ -26,6 +28,11 @@ e.g.
 
 = Does this disable the REST API? =
 No, it only prevents non-authenticated usage of the REST API.
+
+= Does it work with WordPress Multisite? =
+Yes, it does. You may disable REST API access per site or per Network. 
+Per site: Activate the plugin only per site on which you'd like to disable non-authenticated REST API access.
+Per network: Use network-activated for the plugin and it will automagically disable non-authenticated REST API access.
 
 == Screenshots ==
 
